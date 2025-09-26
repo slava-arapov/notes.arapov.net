@@ -3,6 +3,11 @@ lang: en-US
 title: Changelog
 ---
 
+## 2025-09-26 — Notes updated
+
+- **Updated**
+  - [Digital Garden](/writing/digital-garden.md) / [Цифровой сад](/ru/writing/digital-garden.md) 🇷🇺
+
 ## 2023-03-29 — Notes updated
 
 - **Updated**

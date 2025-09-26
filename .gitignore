@@ -5,6 +5,9 @@ docs/.vuepress/.temp/
 docs/.vuepress/.cache/
 docs/.vuepress/dist/
 
+# IDE
+.idea
+
 # Dist files
 dist/
 lib/
