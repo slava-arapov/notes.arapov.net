@@ -1,23 +1,23 @@
 ---
 # home: true
-lang: en-US
-title: My notes
-description: My digital garden
+lang: ru-RU
+title: Мои заметки
+description: Мой цифровой сад
 head:
   - - meta
     - name: yandex-verification
       content: ceba201486ccc015
 ---
-# My notes 🌱
+# Мои заметки 🌱
 
-Hi! 👋
+Привет! 👋
 
-My name is Slava and I am a Full Stack web developer.
+Меня зовут Слава, я Full Stack веб-разработчик.
 
-Welcome to my notes storage. I hope it will become a knowledge base someday.
+Это моё хранилище заметок. Надеюсь, однажды оно превратится в приличную базу знаний.
 
-I write for myself on a variety of topics, but some notes may be useful to someone.
+Я пишу сам для себя на разные темы, но возможно, заметки могут быть полезны кому-нибудь ещё.
 
-Before I fill it with useful content, here are seeds of a [digital garden](/writing/digital-garden.md).
+Пока это хранилище полупустое, тут только ростки [цифрового сада](/writing/digital-garden.md).
 
-> You can start with **[changelog](/changelog.md)** to see last changes.
+> В **[журнале изменений](/changelog.md)** я отмечаю, что изменилось на сайте.

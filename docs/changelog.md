@@ -1,220 +1,228 @@
 ---
-lang: en-US
-title: Changelog
+lang: ru-RU
+title: Журнал изменений
 ---
 
-## 2025-09-26 — Notes updated
+## 2026-11-22 — Синхронизированы русские и английские заметки
 
-- **Updated**
-  - [Digital Garden](/writing/digital-garden.md) / [Цифровой сад](/ru/writing/digital-garden.md) 🇷🇺
+- **Добавлено**
+  - Английские переводы заметок из разделов «Дом и быт», «Фитнес», «Здоровье», «Менеджмент», «Эффективность» и «Работа»
+  - Русский журнал изменений
+- **Обновлено**
+  - Английская страница «Работа», английское боковое меню и ссылки в обеих версиях
 
-## 2023-03-29 — Notes updated
+## 2025-09-26 — Обновлены заметки
 
-- **Updated**
-  - [API](/software-engineering/api.md) / [API (ru)](/ru/software-engineering/api.md) 🇷🇺
+- **Обновлено**
+  - [Цифровой сад](/writing/digital-garden.md)
 
-## 2023-02-28 — Notes updated
+## 2023-03-29 — Обновлены заметки
 
-- **Updated**
-  - [Работа](/ru/work/) 🇷🇺
-  - [Поиск работы](/ru/work/job-search.md) 🇷🇺
-  - [Coding интервью](/ru/work/interview/coding.md) 🇷🇺
+- **Обновлено**
+  - [API](/software-engineering/api.md)
 
-## 2023-01-23 — Notes updated
+## 2023-02-28 — Обновлены заметки
 
-- **Updated**
-  - [PHP](/software-engineering/php/index.md) / [PHP (ru)](/ru/software-engineering/php/index.md) 🇷🇺
-  - [JavaScript](/software-engineering/javascript/) / [JavaScript (ru)](/ru/software-engineering/javascript/) 🇷🇺
+- **Обновлено**
+  - [Работа](/work/)
+  - [Поиск работы](/work/job-search.md)
+  - [Coding интервью](/work/interview/coding.md)
 
-## 2023-01-20 — Notes updated
+## 2023-01-23 — Обновлены заметки
 
-- **Updated**
-  - [Vue.js](/software-engineering/javascript/vue.md) / [Vue.js (ru)](/ru/software-engineering/javascript/vue.md) 🇷🇺
+- **Обновлено**
+  - [PHP](/software-engineering/php/index.md)
+  - [JavaScript](/software-engineering/javascript/)
 
-## 2023-01-09 — New notes and updates
+## 2023-01-20 — Обновлены заметки
 
-- **Added**
+- **Обновлено**
+  - [Vue.js](/software-engineering/javascript/vue.md)
 
-  - [PHP testing](/software-engineering/software-testing/unit-php.md) / [Тестирование PHP-приложений (ru)](/ru/software-engineering/software-testing/unit-php.md) 🇷🇺
+## 2023-01-09 — Новые заметки и обновления
 
-- **Updated**
-  - [Web](/software-engineering/web/index.md) / [Web (ru)](/ru/software-engineering/web/index.md) 🇷🇺
+- **Добавлено**
 
-## 2022-12-20 — New notes and updates
+  - [Тестирование PHP-приложений](/software-engineering/software-testing/unit-php.md)
 
-- **Added**
-  - [JavaScript testing](/software-engineering/software-testing/unit-javascript.md) / [Тестирование JavaScript-приложений (ru)](/ru/software-engineering/software-testing/unit-javascript.md) 🇷🇺
-- **Updated**
-  - [Vue.js](/software-engineering/javascript/vue.md) / [Vue.js (ru)](/ru/software-engineering/javascript/vue.md) 🇷🇺
-  - [Здоровье](/ru/health/) 🇷🇺
+- **Обновлено**
+  - [Web](/software-engineering/web/index.md)
 
-## 2022-12-12 — Notes updated
+## 2022-12-20 — Новые заметки и обновления
 
-- **Updated**
-  - [Software Engineering](/software-engineering/) / [Разработка](/ru/software-engineering/) 🇷🇺
-  - [Git](/software-engineering/git.md) / [Git (ru)](/ru/software-engineering/git.md) 🇷🇺
-  - [JavaScript](/software-engineering/javascript/) / [JavaScript (ru)](/ru/software-engineering/javascript/) 🇷🇺
-  - [CSS](/software-engineering/front-end/css.md) / [CSS (ru)](/ru/software-engineering/front-end/css.md) 🇷🇺
-  - [Здоровье](/ru/health/) 🇷🇺
-  - [Работа](/ru/work/) 🇷🇺
-  - [Поиск работы](/ru/work/job-search.md) 🇷🇺
-  - [Собеседование](/ru/work/interview/) 🇷🇺
-  - [Coding интервью](/ru/work/interview/coding.md) 🇷🇺
+- **Добавлено**
+  - [Тестирование JavaScript-приложений](/software-engineering/software-testing/unit-javascript.md)
+- **Обновлено**
+  - [Vue.js](/software-engineering/javascript/vue.md)
+  - [Здоровье](/health/)
 
-## 2022-11-23 — Notes updated
+## 2022-12-12 — Обновлены заметки
 
-- **Updated**
-  - [Software Engineering](/software-engineering/) / [Разработка](/ru/software-engineering/) 🇷🇺
-  - [API](/software-engineering/api.md) / [API (ru)](/ru/software-engineering/api.md) 🇷🇺
-  - [JavaScript](/software-engineering/javascript/) / [JavaScript (ru)](/ru/software-engineering/javascript/) 🇷🇺
-  - [CSS](/software-engineering/front-end/css.md) / [CSS (ru)](/ru/software-engineering/front-end/css.md) 🇷🇺
+- **Обновлено**
+  - [Разработка](/software-engineering/)
+  - [Git](/software-engineering/git.md)
+  - [JavaScript](/software-engineering/javascript/)
+  - [CSS](/software-engineering/front-end/css.md)
+  - [Здоровье](/health/)
+  - [Работа](/work/)
+  - [Поиск работы](/work/job-search.md)
+  - [Собеседование](/work/interview/)
+  - [Coding интервью](/work/interview/coding.md)
 
-## 2022-11-02 — Notes updated
+## 2022-11-23 — Обновлены заметки
 
-- **Updated**
-  - [Software Engineering](/software-engineering/) / [Разработка](/ru/software-engineering/) 🇷🇺
-  - [JavaScript](/software-engineering/javascript/) / [JavaScript (ru)](/ru/software-engineering/javascript/) 🇷🇺
-  - [CSS](/software-engineering/front-end/css.md) / [CSS (ru)](/ru/software-engineering/front-end/css.md) 🇷🇺
+- **Обновлено**
+  - [Разработка](/software-engineering/)
+  - [API](/software-engineering/api.md)
+  - [JavaScript](/software-engineering/javascript/)
+  - [CSS](/software-engineering/front-end/css.md)
 
-## 2022-11-02 — New notes and updates
+## 2022-11-02 — Обновлены заметки
 
-- **Added**
+- **Обновлено**
+  - [Разработка](/software-engineering/)
+  - [JavaScript](/software-engineering/javascript/)
+  - [CSS](/software-engineering/front-end/css.md)
 
-  - [Software testing](/software-engineering/software-testing/) / [Software testing (ru)](/ru/software-engineering/software-testing/) 🇷🇺
-  - [State Machines](/software-engineering/state-machines.md) / [Машины состояний](/ru/software-engineering/state-machines.md) 🇷🇺
+## 2022-11-02 — Новые заметки и обновления
 
-- **Updated**
-  - [Software Engineering](/software-engineering/) / [Разработка](/ru/software-engineering/) 🇷🇺
-  - [Front end](/software-engineering/front-end/) / [Front end (ru)](/ru/software-engineering/front-end/) 🇷🇺
-  - [JavaScript](/software-engineering/javascript/) / [JavaScript (ru)](/ru/software-engineering/javascript/) 🇷🇺
-  - [Vue.js](/software-engineering/javascript/vue.md) / [Vue.js (ru)](/ru/software-engineering/javascript/vue.md) 🇷🇺
-  - [PHP](/software-engineering/php/index.md) / [PHP (ru)](/ru/software-engineering/php/index.md) 🇷🇺
-  - [Работа](/ru/work/) 🇷🇺
-  - [Поиск работы](/ru/work/job-search.md) 🇷🇺
-  - [Собеседование](/ru/work/interview/) 🇷🇺
-  - [Coding интервью](/ru/work/interview/coding.md) 🇷🇺
+- **Добавлено**
 
-## 2022-10-19 — Notes updated
+  - [Тестирование ПО](/software-engineering/software-testing/)
+  - [Машины состояний](/software-engineering/state-machines.md)
 
-- **Updated**
-  - [CSS](/software-engineering/front-end/css.md) / [CSS (ru)](/ru/software-engineering/front-end/css.md) 🇷🇺
-  - [Front end](/software-engineering/front-end/) / [Front end (ru)](/ru/software-engineering/front-end/) 🇷🇺
-  - [HTML](/software-engineering/front-end/html.md) / [HTML (ru)](/ru/software-engineering/front-end/html.md) 🇷🇺
-  - [Vue.js](/software-engineering/javascript/vue.md) / [Vue.js (ru)](/ru/software-engineering/javascript/vue.md) 🇷🇺
-  - [Writing](/software-engineering/) / [Письмо](/ru/software-engineering/) 🇷🇺
-  - [Резюме](/ru/work/cv.md) 🇷🇺
+- **Обновлено**
+  - [Разработка](/software-engineering/)
+  - [Front end](/software-engineering/front-end/)
+  - [JavaScript](/software-engineering/javascript/)
+  - [Vue.js](/software-engineering/javascript/vue.md)
+  - [PHP](/software-engineering/php/index.md)
+  - [Работа](/work/)
+  - [Поиск работы](/work/job-search.md)
+  - [Собеседование](/work/interview/)
+  - [Coding интервью](/work/interview/coding.md)
 
-## 2022-10-18 — New notes
+## 2022-10-19 — Обновлены заметки
 
-- **Added**
-  - [API](/software-engineering/api.md) / [API (ru)](/ru/software-engineering/api.md) 🇷🇺
-  - [Git](/software-engineering/git.md) / [Git (ru)](/ru/software-engineering/git.md) 🇷🇺
-  - [Web](/software-engineering/Web) / [Web (ru)](/ru/software-engineering/Web) 🇷🇺
-  - [CSS](/software-engineering/front-end/html.md) / [CSS (ru)](/ru/software-engineering/front-end/html.md) 🇷🇺
-  - [Docker](/software-engineering/devops/docker.md) / [Docker (ru)](/ru/software-engineering/devops/docker.md) 🇷🇺
+- **Обновлено**
+  - [CSS](/software-engineering/front-end/css.md)
+  - [Front end](/software-engineering/front-end/)
+  - [HTML](/software-engineering/front-end/html.md)
+  - [Vue.js](/software-engineering/javascript/vue.md)
+  - [Письмо](/writing/)
+  - [Резюме](/work/cv.md)
 
-## 2022-10-03 — Notes updated
+## 2022-10-18 — Новые заметки
 
-- **Updated**
-  - [Поиск работы](/ru/work/job-search.md) 🇷🇺
-  - [Software Engineering](/software-engineering/) / [Разработка](/ru/software-engineering/) 🇷🇺
+- **Добавлено**
+  - [API](/software-engineering/api.md)
+  - [Git](/software-engineering/git.md)
+  - [Web](/software-engineering/web/)
+  - [CSS](/software-engineering/front-end/css.md)
+  - [Docker](/software-engineering/devops/docker.md)
 
-## 2022-09-21 — Notes updated
+## 2022-10-03 — Обновлены заметки
 
-- **Updated**
-  - [Поиск работы](/ru/work/job-search.md) 🇷🇺
+- **Обновлено**
+  - [Поиск работы](/work/job-search.md)
+  - [Разработка](/software-engineering/)
 
-## 2022-09-18 — Old blog notes
+## 2022-09-21 — Обновлены заметки
 
-- **Added**
-  - [Дом и быт](/ru/home/) 🇷🇺
-  - [Магическая уборка Мари Кондо](/ru/home/konmari.md) 🇷🇺
-  - [Цели](/ru/productivity/goals/) 🇷🇺
-  - [Упражнение «Идеальный день»](/ru/productivity/goals/perfect-day.md) 🇷🇺
-  - [Смартфон](/ru/productivity/smartphone.md) 🇷🇺
+- **Обновлено**
+  - [Поиск работы](/work/job-search.md)
 
-## 2022-09-06 — New notes
+## 2022-09-18 — Заметки из старого блога
 
-- **Added**
-  - [Здоровье](/ru/health/) 🇷🇺
-  - [Менеджмент](/ru/management/) 🇷🇺
-  - [Эффективность](/ru/productivity/) 🇷🇺
+- **Добавлено**
+  - [Дом и быт](/home/)
+  - [Магическая уборка Мари Кондо](/home/konmari.md)
+  - [Цели](/productivity/goals/)
+  - [Упражнение «Идеальный день»](/productivity/goals/perfect-day.md)
+  - [Смартфон](/productivity/smartphone.md)
 
-## 2022-09-05 — Notes updated
+## 2022-09-06 — Новые заметки
 
-- **Updated**
-  - [Software Engineering](/software-engineering/) / [Разработка](/ru/software-engineering/) 🇷🇺
-  - [Работа](/ru/work/) 🇷🇺
-  - [Поиск работы](/ru/work/job-search.md) 🇷🇺
-  - [Собеседование](/ru/work/interview/) 🇷🇺
+- **Добавлено**
+  - [Здоровье](/health/)
+  - [Менеджмент](/management/)
+  - [Эффективность](/productivity/)
 
-## 2022-09-01 — New notes
+## 2022-09-05 — Обновлены заметки
 
-- **Added**
-  - [Фитнес](/ru/fitness/) 🇷🇺
-  - [Упражнения](/ru/fitness/exercises.md) 🇷🇺
-  - [Растяжка](/ru/fitness/stretching.md) 🇷🇺
+- **Обновлено**
+  - [Разработка](/software-engineering/)
+  - [Работа](/work/)
+  - [Поиск работы](/work/job-search.md)
+  - [Собеседование](/work/interview/)
 
-## 2022-08-31 — New notes
+## 2022-09-01 — Новые заметки
 
-- **Added**
-  - [Software Engineering](/software-engineering/) / [Разработка](/ru/software-engineering/) 🇷🇺
-  - [DevOps](/software-engineering/devops/) / [DevOps (ru)](/ru/software-engineering/devops/) 🇷🇺
-  - [GitHub](/software-engineering/github.md) / [GitHub (ru)](/ru/software-engineering/github.md) 🇷🇺
-  - [Front end](/software-engineering/front-end/) / [Front end (ru)](/ru/software-engineering/front-end/) 🇷🇺
-  - [HTML](/software-engineering/front-end/html.md) / [HTML (ru)](/ru/software-engineering/front-end/html.md) 🇷🇺
-  - [Vue.js](/software-engineering/javascript/vue.md) / [Vue.js (ru)](/ru/software-engineering/javascript/vue.md) 🇷🇺
-  - [JavaScript](/software-engineering/javascript/) / [JavaScript (ru)](/ru/software-engineering/javascript/) 🇷🇺
-  - [PHP](/software-engineering/php/index.md) / [PHP (ru)](/ru/software-engineering/php/index.md) 🇷🇺
+- **Добавлено**
+  - [Фитнес](/fitness/)
+  - [Упражнения](/fitness/exercises.md)
+  - [Растяжка](/fitness/stretching.md)
 
-## 2022-08-26 — New notes and translations
+## 2022-08-31 — Новые заметки
 
-- **Added**
-  - [Freelance](/work/freelance.md) / [Фриланс](/ru/work/freelance.md)
-- **Updated**
+- **Добавлено**
+  - [Разработка](/software-engineering/)
+  - [DevOps](/software-engineering/devops/)
+  - [GitHub](/software-engineering/github.md)
+  - [Front end](/software-engineering/front-end/)
+  - [HTML](/software-engineering/front-end/html.md)
+  - [Vue.js](/software-engineering/javascript/vue.md)
+  - [JavaScript](/software-engineering/javascript/)
+  - [PHP](/software-engineering/php/index.md)
 
-  - [Digital Garden](/writing/digital-garden.md) / [Цифровой сад](/ru/writing/digital-garden.md) 🇷🇺
-  - [VuePress website hosted on GitHub Pages](/writing/static-website-vuepress-github-pages.md) / [Как разместить сайт VuePress на GitHub Pages](/ru/writing/static-website-vuepress-github-pages.md) 🇷🇺
-  - [Работа](/ru/work/) 🇷🇺
-  - [Поиск работы](/ru/work/job-search.md) 🇷🇺
-  - [Резюме](/ru/work/cv.md) 🇷🇺
-  - [Собеседование](/ru/work/interview/) 🇷🇺
-  - [Ответы на мелкие вопросы](/ru/work/interview/trivia.md) 🇷🇺
-  - [Coding интервью](/ru/work/interview/coding.md) 🇷🇺
-  - [Behavioral интервью](/ru/work/interview/behavioral.md) 🇷🇺
-  - [Оффер и зарплата](/ru/work/offer.md) 🇷🇺
+## 2022-08-26 — Новые заметки и переводы
 
-- **Translated**
-  - [Digital Garden](/writing/digital-garden.md) -> [Цифровой сад](/ru/writing/digital-garden.md) 🇷🇺
-  - [VuePress website hosted on GitHub Pages](/writing/static-website-vuepress-github-pages.md) -> [Как разместить сайт VuePress на GitHub Pages](/ru/writing/static-website-vuepress-github-pages.md) 🇷🇺
+- **Добавлено**
+  - [Фриланс](/work/freelance.md)
+- **Обновлено**
 
-## 2022-08-17 — New notes
+  - [Цифровой сад](/writing/digital-garden.md)
+  - [Как разместить сайт VuePress на GitHub Pages](/writing/static-website-vuepress-github-pages.md)
+  - [Работа](/work/)
+  - [Поиск работы](/work/job-search.md)
+  - [Резюме](/work/cv.md)
+  - [Собеседование](/work/interview/)
+  - [Ответы на мелкие вопросы](/work/interview/trivia.md)
+  - [Coding интервью](/work/interview/coding.md)
+  - [Behavioral интервью](/work/interview/behavioral.md)
+  - [Оффер и зарплата](/work/offer.md)
 
-- **Added**
-  - [Работа](/ru/work/) 🇷🇺
-  - [Поиск работы](/ru/work/job-search.md) 🇷🇺
-  - [Резюме](/ru/work/cv.md) 🇷🇺
-  - [Собеседование](/ru/work/interview/) 🇷🇺
-  - [Ответы на мелкие вопросы](/ru/work/interview/trivia.md) 🇷🇺
-  - [Coding интервью](/ru/work/interview/coding.md) 🇷🇺
-  - [System Design интервью](/ru/work/interview/system-design.md) 🇷🇺
-  - [Behavioral интервью](/ru/work/interview/behavioral.md) 🇷🇺
-  - [Выбор оффера](/ru/work/offer.md) 🇷🇺
-- **Translated**
-  - [My Notes](/) -> [Мои заметки](/ru/) 🇷🇺
+- **Переведено**
+  - Digital Garden -> [Цифровой сад](/writing/digital-garden.md)
+  - VuePress website hosted on GitHub Pages -> [Как разместить сайт VuePress на GitHub Pages](/writing/static-website-vuepress-github-pages.md)
 
-## 2022-08-09 — Migration to VuePress
+## 2022-08-17 — Новые заметки
 
-- Migrated to VuePress
+- **Добавлено**
+  - [Работа](/work/)
+  - [Поиск работы](/work/job-search.md)
+  - [Резюме](/work/cv.md)
+  - [Собеседование](/work/interview/)
+  - [Ответы на мелкие вопросы](/work/interview/trivia.md)
+  - [Coding интервью](/work/interview/coding.md)
+  - [System Design интервью](/work/interview/system-design.md)
+  - [Behavioral интервью](/work/interview/behavioral.md)
+  - [Выбор оффера](/work/offer.md)
+- **Переведено**
+  - My Notes -> [Мои заметки](/)
 
-## 2022-08-07 — New note
+## 2022-08-09 — Переезд на VuePress
 
-- **Added**
-  - [~~Jekyll~~ VuePress website hosted on GitHub Pages](/writing/static-website-vuepress-github-pages.md) note added
+- Сайт перенесён на VuePress
 
-## 2022-08-05 — Digital garden birthday
+## 2022-08-07 — Новая заметка
 
-- Digital garden template was created by using [Maxime Vaillancourt styles, script and manual](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll)
-- Project was deployed on Github Pages using [GitHub Pages manual](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll)
-- **Added**
-  - [Digital Garden](/writing/digital-garden.md)
+- **Добавлено**
+  - Добавлена заметка [«Как разместить сайт VuePress на GitHub Pages»](/writing/static-website-vuepress-github-pages.md)
+
+## 2022-08-05 — День рождения цифрового сада
+
+- Шаблон цифрового сада создан на основе [стилей, скрипта и инструкции Максима Вайянкура](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll)
+- Сайт опубликован на GitHub Pages по [инструкции GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll)
+- **Добавлено**
+  - [Цифровой сад](/writing/digital-garden.md)

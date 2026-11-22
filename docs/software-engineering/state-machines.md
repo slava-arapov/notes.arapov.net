@@ -1,17 +1,17 @@
 ---
-lang: en-EN
-title: State Machines
+lang: ru-RU
+title: Машины состояний
 ---
-# State Machines
+# Машины состояний
 
-It becomes difficult in complex systems and components to manage states over time due to the mix of conditions, flags, and states dependencies.
+В сложных системах и компонентах со временем становится сложно управлять состояниями из-за множества условий, флагов и зависимости состояний друг от друга.
 
-State machines help by taking over the responsibility of managing states.
+На помощь приходят стейт-машины, которые берут управление состояниями на себя.
 
-Using out-of-the-box solutions like XState helps to keep reduсers lightweight.
+Можно реализовать машину состояний самостоятельно, но лучше воспользоваться готовыми решениями, например, XState. Это поможет сохранить редьюсеры лёгкими и не изобретать велосипед.
 
-## Links
-- [Finite-state machine](https://en.wikipedia.org/wiki/Finite-state_machine) Wikipedia
+## Ссылки
+- [Конечный автомат](https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D0%B5%D1%87%D0%BD%D1%8B%D0%B9_%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82) — Википедия
 - [XState](https://github.com/statelyai/xstate) — JavaScript state machines and statecharts, GitHub
 - [Stately](https://stately.ai/) — A suite of visual tools for building app logic
-- [State Machine: что это и зачем (конференция «Я 💛 Фронтенд!»)](https://www.youtube.com/watch?v=z3O8qYmPd58&list=WL&index=1&t=14363s) — Сергей Пономарёв, YouTube (2022) 🇷🇺
+- [State Machine: что это и зачем (конференция «Я 💛 Фронтенд!»)](https://www.youtube.com/watch?v=z3O8qYmPd58&list=WL&index=1&t=14363s) — Сергей Пономарёв, YouTube (2022)

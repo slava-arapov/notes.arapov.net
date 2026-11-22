@@ -9,6 +9,14 @@ This is the source for my personal notes website, [notes.arapov.net](https://not
 1. Run `npm run docs:dev` to serve and rebuild the site any time a source file changes
 1. Browse to http://localhost:8080
 
+## Site URLs
+
+The Russian site is served from `/`. The build generates redirects from
+existing `/ru/` URLs to their current addresses, preserving query strings
+and fragments. The router also handles legacy links in DocSearch results.
+The former English content is stored in `archive/english/` outside the site
+source directory.
+
 ## License
 
 Source code is available under the [MIT license](LICENSE.md). Content is available under the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license.

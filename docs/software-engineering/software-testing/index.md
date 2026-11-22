@@ -1,22 +1,22 @@
 ---
-lang: en-EN
-title: Software Testing
+lang: ru-RU
+title: Тестирование ПО
 ---
-# Software Testing
+# Тестирование ПО
 
-Software testing helps to verify and confirm that the software
-- Does not have any errors
-- Complies with technical requirements and design
-- Complies with user requirements by handling all exceptional and edge cases
+Тестирование помогает проверить и подтвердить, что программное обеспечение
+- Не содержит ошибок
+- Соответствует техническим требованиям и дизайну
+- Удовлетворяет требованиям пользователей, обрабатывая все исключительные и пограничные случаи
 
-The automatic test describes the desired scenario that meets the requirements. If the scenario is violated in the future after refinement, the test will report it.
+Автоматический тест описывает желаемый сценарий, который соответствует требованиям. Если в будущем после доработки сценарий будет нарушен, тест об этом сообщит.
 
-## The testing pyramid
+## Пирамида тестирования
 
-The testing pyramid, a popular QA model, includes the following levels of functional testing:
-- End-to-end Testing
-- Integration Testing
-- Unit Testing
+Пирамида тестирования — популярная модель QA, включает в себя следующие уровни функционального тестирования:
+- End-to-end Testing (сквозное, приёмочное, тестирование интерфейса)
+- Integration Testing (интеграционное + системное)
+- Unit Testing (модульное)
 
 ```
              -             
@@ -31,26 +31,26 @@ The testing pyramid, a popular QA model, includes the following levels of functi
     /-----------------\    
    /                   \   
   /     unit testing    \  
- /                       \ 
+ /                       \
 ---------------------------
 ```
 
-### Unit testing
+### Unit-тестирование
 
-Unit testing is the basis of the pyramid. Unit tests test the system at function, class, module, component level. Unit tests are always automated.
+Unit-тестирование — основа пирамиды. Модульные тесты проверяют систему на уровне функций, классов, модулей и компонентов и всегда автоматизированы.
 
-Unit tests help the developer both to improve the reliability of a component and to understand how the component works and to find out the input parameters, bottlenecks, and limitations.
+Помимо повышения надёжности компонента unit-тесты помогают разработчику разобраться, как компонент работает и узнать входные параметры, узкие места и ограничения.
 
-The structure of unit tests usually follows the mnemonic rule "AAA" and consists of three blocks: "arrange, act, assert".
+Структура юнит-тестов обычно соответствует мнемоническому правилу «AAA» состоит из трёх блоков: «arrange, act, assert».
 
-### Integration testing
+### Интеграционное тестирование
 
-Involves testing the links between modules or components, as well as link between component and system.
+Предполагает тестирование связей между модулями или компонентами, а также компонента и системы.
 
-### End-to-end testing
+### Тестирование End-to-end
 
-Some experts suggest starting with end-to-end testing and go down the pyramid, as e2e-testing is as close to the user, brings maximum benefit, immediately pays off.
+Многие специалисты предлагают начинать с end-to-end тестирования и спускаться вниз по пирамиде, так как e2e-тестирование максимально приближено к пользователю, приносит максимум пользы, сразу окупается.
 
-## Links
+## Ссылки
 - [Arrange Act Assert](https://wiki.c2.com/?ArrangeActAssert) — WikiWikiWeb (2012)
-- [Библия QA](https://github.com/VladislavEremeev/QA_bible) — обновляемая база знаний объемом 560+ страниц, Vladislav Eremeev, GitHub (2022) 🇷🇺
+- [Библия QA](https://github.com/VladislavEremeev/QA_bible) — обновляемая база знаний объемом 560+ страниц, Vladislav Eremeev, GitHub (2022)

@@ -1,10 +1,10 @@
 ---
-lang: en-EN
+lang: ru-RU
 title: DevOps
 ---
 # DevOps
 
-## Links
+## Ссылки
 
-### Events
-- [DevOpsConf](https://devopsconf.io/) — Professional conference on integration of development, testing and operation processes 🇷🇺
+### События
+- [DevOpsConf](https://devopsconf.io/) — Профессиональная конференция по интеграции процессов разработки, тестирования и эксплуатации

@@ -1,8 +1,9 @@
 {
-  "name": "Slava Arapov Notes",
-  "short_name": "Arapov Notes",
-  "description": "Notes and knowledge base",
-  "start_url": "/index.html",
+  "lang": "ru-RU",
+  "name": "Заметки Вячеслава Арапова",
+  "short_name": "Заметки Арапова",
+  "description": "Цифровой сад и база знаний",
+  "start_url": "/",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#3eaf7c",

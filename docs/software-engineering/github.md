@@ -1,18 +1,18 @@
 ---
-lang: en-EN
+lang: ru-RU
 title: GitHub
 ---
 # GitHub
 
-I host my and clients' repositories at GitHub. I use GitHub Actions for CI/CD and GitHub Pages to host static sites like this one. 
+Я размещаю репозитории на GitHub: свои и клиентов. Пользуюсь GitHub Actions для CI/CD, GitHub Pages для размещения статических сайтов, например, этого.
 
-GitHub is the main social network for developers, стоит оформить свой профиль как следует:
-- Fill in personal information
-- [Set up profile README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)
-- Pin the most important repositories
-- Carefully arrange repositories READMEs
+GitHub - главная соцсеть для разработчиков, поэтому стоит оформить свой профиль как следует:
+- Заполнить информацию о себе
+- [Сделать README для своего профиля](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)
+- Закрепить самые важные репозитории
+- Аккуратно оформить README в репозиториях
 
-Here is my GitHub profile: [@slava-arapov](https://github.com/slava-arapov).
+Мой GitHub-профиль: [@slava-arapov](https://github.com/slava-arapov).
 
-## Links
+## Ссылки
 - [Awesome GitHub Profile READMEs](https://zzetao.github.io/awesome-github-profile/) — Zetao Zhuang (2021)

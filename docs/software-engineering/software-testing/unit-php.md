@@ -1,10 +1,10 @@
 ---
-lang: en-EN
-title: PHP testing
+lang: ru-RU
+title: Тестирование PHP-приложений
 ---
-# PHP testing
+# Тестирование PHP-приложений
 
-## Links
+## Ссылки
 
 ### PHP
 - [PHPUnit](https://github.com/sebastianbergmann/phpunit) — The PHP Unit Testing framework, GitHub
