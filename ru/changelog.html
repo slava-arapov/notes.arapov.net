@@ -1,0 +1,15 @@
+<!doctype html>
+<html lang="ru-RU">
+  <head>
+    <meta charset="utf-8">
+    <link rel="canonical" href="/changelog.html">
+    <title>Страница переехала</title>
+  </head>
+  <body>
+    <a id="destination" href="/changelog.html">Перейти к заметке</a>
+    <script>
+      const destination = document.getElementById('destination').href
+      location.replace(destination + location.search + location.hash)
+    </script>
+  </body>
+</html>
